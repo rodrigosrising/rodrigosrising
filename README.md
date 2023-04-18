@@ -54,5 +54,5 @@ Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats
 <br>
 <div>
   <a href="mailto:rodrigosrising@gmail.com" target="_blank"><img align="center" height = "30vh" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/rodrigosrising" target="_blank"><img align="center" height = "30vh" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/rodrigo-garcia-120286" target="_blank"><img align="center" height = "30vh" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
