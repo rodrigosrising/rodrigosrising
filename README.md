@@ -1,7 +1,7 @@
 ## Olá! Sou Rodrigo Garcia
 
 - 👨‍💻 Desenvolvedor Web na Uniandrade.
-- 🌱 Estudante: PHP, Javascript, C e C# e Cursando Ciência da Computação.
+- 🌱 Estudante: PHP, Javascript, React, C e C# e Cursando Ciência da Computação.
 
 <div>
   <picture>
@@ -44,6 +44,7 @@ Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats
   <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" height = "30vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
