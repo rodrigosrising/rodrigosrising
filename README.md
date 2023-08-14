@@ -39,7 +39,7 @@
 
 <!--Link do github stats <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">click aqui</a> -->
 
-<div style="display: inline_block; margin-top:30px;">
+<div style="display: inline_block; padding-top:30px;">
   
   <img align="center" height = "70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" height = "70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
